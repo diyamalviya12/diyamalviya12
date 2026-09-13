@@ -1,153 +1,93 @@
-<h1 align="center">Hey 👋, I'm Diya Malviya</h1>
-
-<h3 align="center">💻 Developer • 🚀 Tech Explorer • ✨ Creative Coder</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Code+.+Create+.+Innovate+⚡;Full+Stack+Developer+🚀;Always+Learning+New+Things+🌸;Turning+Coffee+Into+Code+☕" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Diya+Malviya;Software+Developer;Building+Web+%26+AI+Solutions" alt="Typing Intro">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=gradient&section=footer" width="65%">
 </p>
 
----
-
-# 🌸 About Me
-
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-Name: Diya Malviya
-Username: YOUR_USERNAME
-Role: Student & Developer
-Focus:
-  - Web Development
-  - AI Projects
-  - UI/UX Designing
-  - Open Source
-
-Currently Learning:
-  - React
-  - Backend Development
-  - APIs
-  - Firebase
-
-Hobbies:
-  - Coding 💻
-  - Designing 🎨
-  - Music 🎧
-  - Gaming 🎮
-
-Motto: "Stay curious, keep building."
-```
-
----
-
-# ⚡ Languages & Tools
-
+</p>
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="30%">
+  &nbsp;&nbsp;
+  <img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODkzMTk0NDAsIm5iZiI6MTc4OTMxOTE0MCwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTEzVDE3MDU0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhNDdlNjM3ODQ4ZDk0NjU3ZmYwNjkyZThlZDU2ZGRkNTUxYzJhMmJiNTEyMDU5OTQ1NTFhYjg0NDI2YjUwZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.ChLDS5H9kqtwU--jsPitBy1E5wXlmMn6f4JtFZaPhwI" width="60%">
+</p>
+<h2>Tech Stack</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,java,c,cpp,php,mysql,mongodb,react,nodejs,express,firebase,git,github,vscode,linux,figma,bootstrap,tailwind,postman,canva,vercel,netlify&theme=dark" />
+<p align="left">
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"><br>
 
+<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"><br>
+
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/GOOGLE_COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+<img src="https://img.shields.io/badge/JUPYTER_NOTEBOOK-F37626?style=for-the-badge&logo=jupyter&logoColor=white"><br>
+
+
+<img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white"><br>
+
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </p>
 
----
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
+<h2>Current Stats</h2>
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/diyamalviya12">
+<img src="https://img.shields.io/badge/GitHub-diyamalviya12-6E40C9?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<img src="https://img.shields.io/badge/Repositories-10%2B-238636?style=for-the-badge&logo=github&logoColor=white">
 
-<a href="https://instagram.com/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
+<img src="https://img.shields.io/badge/Contributions-100%2B-0969DA?style=for-the-badge&logo=github&logoColor=white">
 
-<a href="https://twitter.com/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=twitter" />
+</p>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Diya_parmar08/">
+<img src="https://leetcard.jacoblin.cool/Diya_parmar08?theme=dark&font=Baloo%202" width="500">
 </a>
 
 </p>
 
----
 
-# 😂 Random Dev Meme
 
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke"/>
-
-</p>
-
----
-
-# ✨ Random Dev Quote
+<h2>Connect With Me</h2>
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<a href="https://www.linkedin.com/in/diya-i-10793626a/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-</p>
+<a href="https://leetcode.com/u/Diya_parmar08/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-</p>
-
----
-
-# 👀 Profile Views
+<a href="https://www.instagram.com/diya_malviya_08/">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=C084FC&style=for-the-badge"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient" width="100%">
 </p>
-
----
-
-<h3 align="center">⚡ Eat • Sleep • Code • Repeat ⚡</h3>
